@@ -1,1 +1,3 @@
-I ate all of Aurod's pretzles
+Gavin McIntosh: 
+
+C/C++, CUDA, OpenGL, Python, Machine Learning, Scientific Computing, OpenGL, Linux
